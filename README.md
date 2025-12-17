@@ -1,97 +1,269 @@
-# Hi there, I'm Sushmitha Govindaraj 👋
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sushmitha-govindaraj-40534a196)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sushmitharaj2000@gmail.com)
+# 👋 Hi, I'm Sushmitha Govindaraj
 
-## 👩‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Robotics+Engineer+%7C+AI+Researcher;Autonomous+Systems+Specialist;SLAM+%26+Sensor+Fusion+Expert" alt="Typing SVG" />
 
-Robotics Engineer specializing in **AI-powered autonomous systems**, **sensor data fusion**, and **industrial automation**. Currently pursuing my Master's thesis at TU Dortmund, focusing on sonar-based SLAM for autonomous underwater vehicles.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushmitha-govindaraj-40534a196)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushmitharaj2000@gmail.com)
+[![Location](https://img.shields.io/badge/Dortmund-Germany-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Dortmund)
 
-### 🎓 Education
-- **M.Sc. Automation & Robotics** - TU Dortmund (2022 - Present)
-- **B.E. Robotics & Automation** - PSG College of Technology, India (2018 - 2022)
-
-### 💼 Current Roles
-- **Master's Thesis Student** @ TU Dortmund (Nov 2024 - June 2025)
-  - Research on sonar-based SLAM for GNSS-free localization of autonomous ships
-  - Developing LSTM neural network models for underwater odometry accuracy
-  
-- **Research Assistant** @ TU Dortmund - Information Processing Lab (June 2024 - May 2025)
-  - AI-driven signal processing optimization in embedded systems
-  - Machine learning techniques for circuit performance improvement
-
-## 🚀 Technical Skills
-
-### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-- Deep Learning, Reinforcement Learning
-- Computer Vision, LSTM Networks
-- PyTorch, TensorFlow
-
-### Robotics & Autonomous Systems
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-- ROS1/ROS2, SLAM, Sensor Fusion
-- Navigation, Gazebo, MoveIt
-- OpenCV, Computer Vision
-
-### Programming & Tools
-- **Languages**: Python, C++, MATLAB
-- **Automation**: PLC Programming, SCADA, Robot Integration
-- **Embedded Systems**: SI/PI Design, SPICE Simulation
-
-### Languages
-- 🇬🇧 English (C2)
-- 🇩🇪 German (B2 - Learning)
-- 🇮🇳 Tamil (Native)
-
-## 🔬 Featured Projects
-
-### AI-Based SI/PI-Compliant PCB Design
-*TU Dortmund (Oct 2023 - June 2024)*
-- Developed AI models for optimizing high-speed PCB designs
-- Created comprehensive training datasets using SPICE simulations
-- Integrated AI-driven recommendations for PCB design reliability
-
-### Robotic Arm on Omnidirectional Base
-*PSG College of Technology (Dec 2021 - May 2022)*
-- Developed 5-axis robotic arm on Mecanum wheel omnidirectional base
-- Implemented control algorithms for pick-and-place operations
-- Integrated flexible mobility solutions for adaptive handling
-
-### RTPCR Robotic Automation System
-*AAtek Robo Private Limited (Dec 2021 - May 2022)*
-- Developed robotic automation system for RTPCR sample collection
-- Implemented computer vision algorithms with Python and ROS
-- Enhanced laboratory automation through intelligent control systems
-
-## 🏆 Certifications
-
-- **International Conference on Automation, Robotics, and Sensing** - PSG College (2018)
-- **Create Your First Chatbot with Rasa and Python** - Coursera
-- **AI For Everyone** - Coursera
-- **Machine Learning for All** - Coursera
-- **Aerial Surveying using Drone Technology** - Aviocian Technologies
-- **Machine Learning Workshop** - IIT Madras (2019)
-
-## 🌟 Interests
-
-- 🤖 Open-source robotics projects & ROS community
-- 🖨️ 3D printing & rapid prototyping
-- 📚 AI conferences & autonomous systems webinars
-- 📸 Photography & cultural exchange
-- ✈️ Travel & exploration
-
-## 📫 Get in Touch
-
-- **Email**: [sushmitharaj2000@gmail.com](mailto:sushmitharaj2000@gmail.com)
-- **LinkedIn**: [linkedin.com/in/sushmitha-govindaraj](https://linkedin.com/in/sushmitha-govindaraj-40534a196)
-- **Location**: Dortmund, Germany
+</div>
 
 ---
 
-*Last Updated: December 2024*
+## � About Me
+
+```python
+class RoboticsEngineer:
+    def __init__(self):
+        self.name = "Sushmitha Govindaraj"
+        self.role = "AI-Powered Robotics Specialist"
+        self.location = "Dortmund, Germany 🇩🇪"
+        self.education = {
+            "masters": "M.Sc. Automation & Robotics @ TU Dortmund",
+            "bachelors": "B.E. Robotics & Automation @ PSG College of Technology"
+        }
+        self.current_focus = [
+            "Sonar-based SLAM for Autonomous Underwater Vehicles",
+            "LSTM Neural Networks for Odometry",
+            "AI-driven Signal Processing Optimization"
+        ]
+        self.languages = ["English (C2)", "German (B2)", "Tamil (Native)"]
+    
+    def get_expertise(self):
+        return ["Autonomous Systems", "Sensor Fusion", "Industrial Automation"]
+```
+
+<div align="center">
+
+### 🎯 Current Research & Work
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎓 Master's Thesis Student
+**TU Dortmund** | *Nov 2024 - June 2025*
+
+🔬 Sonar-based SLAM for GNSS-free localization  
+🤖 LSTM neural networks for underwater odometry  
+🌊 Autonomous ship navigation systems
+
+</td>
+<td width="50%">
+
+#### 💼 Research Assistant
+**TU Dortmund - Info Processing Lab** | *June 2024 - May 2025*
+
+⚡ AI-driven signal processing optimization  
+🔧 Embedded systems performance tuning  
+📊 ML techniques for circuit improvement
+
+</td>
+</tr>
+</table>
+
+---
+
+## � Tech Stack & Skills
+
+<div align="center">
+
+### 🤖 AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Deep Learning** • **Reinforcement Learning** • **Computer Vision** • **LSTM Networks** • **Neural Networks**
+
+### 🦾 Robotics & Autonomous Systems
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=gazebo&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**ROS1/ROS2** • **SLAM** • **Sensor Fusion** • **Navigation** • **MoveIt** • **Path Planning** • **Localization**
+
+### ⚙️ Programming & Development
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🏭 Industrial Automation
+
+**PLC Programming** • **SCADA Systems** • **Robot Integration** • **SI/PI Design** • **SPICE Simulation**
+
+</div>
+
+---
+
+## 🔬 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🧠 AI-Based PCB Design
+**TU Dortmund** | *Oct 2023 - June 2024*
+
+🎯 AI models for high-speed PCB optimization  
+📊 SPICE simulation training datasets  
+✅ AI-driven design reliability recommendations
+
+[![AI](https://img.shields.io/badge/AI-Powered-6366F1?style=flat-square)](https://github.com)
+[![PCB](https://img.shields.io/badge/PCB-Design-10B981?style=flat-square)](https://github.com)
+
+</td>
+<td width="33%" align="center">
+
+### 🦾 Robotic Arm System
+**PSG College** | *Dec 2021 - May 2022*
+
+🤖 5-axis arm on Mecanum wheel base  
+🎮 Advanced control algorithms  
+📦 Pick-and-place automation
+
+[![Robotics](https://img.shields.io/badge/Robotics-System-F59E0B?style=flat-square)](https://github.com)
+[![ROS](https://img.shields.io/badge/ROS-Enabled-EF4444?style=flat-square)](https://github.com)
+
+</td>
+<td width="33%" align="center">
+
+### 🧪 RTPCR Automation
+**AAtek Robo** | *Dec 2021 - May 2022*
+
+🔬 Robotic sample collection system  
+👁️ Computer vision algorithms  
+⚡ Laboratory automation
+
+[![CV](https://img.shields.io/badge/Computer-Vision-8B5CF6?style=flat-square)](https://github.com)
+[![Auto](https://img.shields.io/badge/Automation-System-EC4899?style=flat-square)](https://github.com)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SushmithaGovindaraj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushmithaGovindaraj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SushmithaGovindaraj&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=10B981&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+| 🎓 Certification | 🏢 Organization | 📅 Year |
+|:----------------|:----------------|:--------|
+| 🤖 International Conference on Automation, Robotics & Sensing | PSG College of Technology | 2018 |
+| 💬 Create Your First Chatbot with Rasa and Python | Coursera | ✅ |
+| 🧠 AI For Everyone | Coursera | ✅ |
+| 📊 Machine Learning for All | Coursera | ✅ |
+| 🚁 Aerial Surveying using Drone Technology | Aviocian Technologies | ✅ |
+| 🔬 Machine Learning Workshop | IIT Madras | 2019 |
+
+</div>
+
+---
+
+## 🌟 Interests & Passions
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Sushmitha))
+    🤖 Robotics
+      Open-source Projects
+      ROS Community
+      Autonomous Systems
+    🎨 Creative
+      3D Printing
+      Rapid Prototyping
+      Photography
+    📚 Learning
+      AI Conferences
+      Tech Webinars
+      Research Papers
+    🌍 Exploration
+      Travel
+      Cultural Exchange
+      New Experiences
+```
+
+</div>
+
+<div align="center">
+
+### 💡 What Drives Me
+
+📚 **AI conferences** & autonomous systems research  
+📸 **Photography** & cultural exchange experiences  
+✈️ **Travel** & exploring new horizons
+
+</div>
+
+---
+
+## � Let's Connect!
+
+<div align="center">
+
+<a href="mailto:sushmitharaj2000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sushmitharaj2000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/sushmitha-govindaraj-40534a196">
+  <img src="https://img.shields.io/badge/LinkedIn-Sushmitha_Govindaraj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/SushmithaGovindaraj">
+  <img src="https://img.shields.io/badge/GitHub-SushmithaGovindaraj-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+### 🌍 Based in Dortmund, Germany
+
+<img src="https://komarev.com/ghpvc/?username=SushmithaGovindaraj&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote I Live By
+
+*"The future belongs to those who believe in the beauty of their dreams."*
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+
+**⭐ From [SushmithaGovindaraj](https://github.com/SushmithaGovindaraj) | Last Updated: December 2024**
+
+</div>
