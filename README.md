@@ -41,30 +41,46 @@ class RoboticsEngineer:
 
 </div>
 
+<br>
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🎓 Master's Thesis Student
 **TU Dortmund** | *Nov 2024 - June 2025*
 
+<br>
+
 🔬 Sonar-based SLAM for GNSS-free localization  
+
 🤖 LSTM neural networks for underwater odometry  
+
 🌊 Autonomous ship navigation systems
 
+<br>
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 💼 Research Assistant
 **TU Dortmund - Info Processing Lab** | *June 2024 - May 2025*
 
+<br>
+
 ⚡ AI-driven signal processing optimization  
+
 🔧 Embedded systems performance tuning  
+
 📊 ML techniques for circuit improvement
+
+<br>
 
 </td>
 </tr>
 </table>
+
+<br>
 
 ---
 
@@ -161,70 +177,21 @@ class RoboticsEngineer:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SushmithaGovindaraj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushmithaGovindaraj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SushmithaGovindaraj&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=10B981&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🏆 Certifications & Achievements
 
 <div align="center">
 
 | 🎓 Certification | 🏢 Organization | 📅 Year |
 |:----------------|:----------------|:--------|
+| 🤖 Fundamentals of Agents | Hugging Face Agents Course | Oct 2025 |
+| 🧠 Introduction to Generative AI - Art of the Possible | AWS Training & Certification | Oct 2025 |
+| ☁️ No-code Machine Learning and Generative AI on AWS | AWS Training & Certification | Oct 2025 |
 | 🤖 International Conference on Automation, Robotics & Sensing | PSG College of Technology | 2018 |
-| 💬 Create Your First Chatbot with Rasa and Python | Coursera | ✅ |
-| 🧠 AI For Everyone | Coursera | ✅ |
-| 📊 Machine Learning for All | Coursera | ✅ |
-| 🚁 Aerial Surveying using Drone Technology | Aviocian Technologies | ✅ |
+| 💬 Create Your First Chatbot with Rasa and Python | Coursera | 2020 |
+| 🧠 AI For Everyone | Coursera | 2020 |
+| 📊 Machine Learning for All | Coursera | 2020 |
+| 🚁 Aerial Surveying using Drone Technology | Aviocian Technologies | 2020 |
 | 🔬 Machine Learning Workshop | IIT Madras | 2019 |
-
-</div>
-
----
-
-## 🌟 Interests & Passions
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Sushmitha))
-    🤖 Robotics
-      Open-source Projects
-      ROS Community
-      Autonomous Systems
-    🎨 Creative
-      3D Printing
-      Rapid Prototyping
-      Photography
-    📚 Learning
-      AI Conferences
-      Tech Webinars
-      Research Papers
-    🌍 Exploration
-      Travel
-      Cultural Exchange
-      New Experiences
-```
-
-</div>
-
-<div align="center">
-
-### 💡 What Drives Me
-
-📚 **AI conferences** & autonomous systems research  
-📸 **Photography** & cultural exchange experiences  
-✈️ **Travel** & exploring new horizons
 
 </div>
 
@@ -264,6 +231,6 @@ mindmap
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
-**⭐ From [SushmithaGovindaraj](https://github.com/SushmithaGovindaraj) | Last Updated: December 2024**
+**⭐ From [SushmithaGovindaraj](https://github.com/SushmithaGovindaraj) | Last Updated: December 2025**
 
 </div>
