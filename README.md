@@ -37,7 +37,7 @@ class RoboticsEngineer:
 
 <div align="center">
 
-### 🎯 Current Research & Work
+### 🎯 Recent Research & Work
 
 </div>
 
