@@ -1,9 +1,9 @@
-# Sushmitha Govindaraj
+# Hi there, I'm Sushmitha Govindaraj 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sushmitha-govindaraj-40534a196)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sushmitharaj2000@gmail.com)
 
-## 👋 About Me
+## 👩‍💻 About Me
 
 Robotics Engineer specializing in **AI-powered autonomous systems**, **sensor data fusion**, and **industrial automation**. Currently pursuing my Master's thesis at TU Dortmund, focusing on sonar-based SLAM for autonomous underwater vehicles.
 
@@ -49,37 +49,6 @@ Robotics Engineer specializing in **AI-powered autonomous systems**, **sensor da
 - 🇩🇪 German (B2 - Learning)
 - 🇮🇳 Tamil (Native)
 
-## 📂 Repository Contents
-
-### CV/Resume
-This repository contains my professional CV in LaTeX format:
-
-- **[cv.tex](cv.tex)** - LaTeX source file (German version)
-- **Requirements**: LaTeX distribution (TeX Live, MiKTeX, or Overleaf)
-
-### 📄 Compiling the CV
-
-To compile the CV, you'll need a LaTeX distribution installed. Here are the options:
-
-#### Option 1: Using Overleaf (Easiest)
-1. Upload `cv.tex` to [Overleaf](https://www.overleaf.com)
-2. Add your profile image as `IMG_3265.jpg`
-3. Click "Recompile"
-
-#### Option 2: Local Compilation
-```bash
-# Install LaTeX (Ubuntu/Debian)
-sudo apt-get install texlive-full
-
-# Compile the CV
-pdflatex cv.tex
-```
-
-#### Option 3: Using Docker
-```bash
-docker run --rm -v $(pwd):/data blang/latex:ubuntu pdflatex cv.tex
-```
-
 ## 🔬 Featured Projects
 
 ### AI-Based SI/PI-Compliant PCB Design
@@ -122,13 +91,6 @@ docker run --rm -v $(pwd):/data blang/latex:ubuntu pdflatex cv.tex
 - **Email**: [sushmitharaj2000@gmail.com](mailto:sushmitharaj2000@gmail.com)
 - **LinkedIn**: [linkedin.com/in/sushmitha-govindaraj](https://linkedin.com/in/sushmitha-govindaraj-40534a196)
 - **Location**: Dortmund, Germany
-- **Phone**: +49 1635211451
-
----
-
-### 📝 License
-
-This CV template is based on [Jake's Resume](https://github.com/sb2nov/resume) and is licensed under the MIT License.
 
 ---
 
