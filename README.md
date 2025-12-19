@@ -41,9 +41,9 @@ class RoboticsEngineer:
 
 </div>
 
-<br>
+<div align="center">
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -79,6 +79,8 @@ class RoboticsEngineer:
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
