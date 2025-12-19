@@ -24,7 +24,7 @@ class RoboticsEngineer:
             "masters": "M.Sc. Automation & Robotics @ TU Dortmund",
             "bachelors": "B.E. Robotics & Automation @ PSG College of Technology"
         }
-        self.current_focus = [
+        self.recent_focus = [
             "Sonar-based SLAM for Autonomous Underwater Vehicles",
             "LSTM Neural Networks for Odometry",
             "AI-driven Signal Processing Optimization"
