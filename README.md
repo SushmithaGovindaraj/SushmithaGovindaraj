@@ -25,9 +25,9 @@ class RoboticsEngineer:
             "bachelors": "B.E. Robotics & Automation @ PSG College of Technology"
         }
         self.recent_focus = [
-            "Sonar-based SLAM for Autonomous Underwater Vehicles",
-            "LSTM Neural Networks for Odometry",
-            "AI-driven Signal Processing Optimization"
+            "Data Analytics & Control Engineering @ Wilo Group",
+            "Big Data Workflows with PySpark & Databricks",
+            "Industrial RAG & Computer Vision systems"
         ]
         self.languages = ["English (C2)", "German (B2)", "Tamil (Native)"]
     
@@ -45,6 +45,23 @@ class RoboticsEngineer:
 
 <table align="center">
 <tr>
+<td colspan="2" align="center" valign="top">
+
+#### 💼 Werkstudentin - Data Science & Control Engineering
+**Wilo Group** | *Dec 2025 - Present*
+
+<br>
+
+📊 Data analytics solutions with Databricks for water tech  
+⚡ PySpark big data processing workflows  
+🔧 Data pipelines for control engineering  
+🤝 Cross-functional collaboration for data-driven decisions
+
+<br>
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🎓 Master's Thesis Student
@@ -53,9 +70,7 @@ class RoboticsEngineer:
 <br>
 
 🔬 Sonar-based SLAM for GNSS-free localization  
-
 🤖 LSTM neural networks for underwater odometry  
-
 🌊 Autonomous ship navigation systems
 
 <br>
@@ -69,9 +84,7 @@ class RoboticsEngineer:
 <br>
 
 ⚡ AI-driven signal processing optimization  
-
 🔧 Embedded systems performance tuning  
-
 📊 ML techniques for circuit improvement
 
 <br>
@@ -94,12 +107,12 @@ class RoboticsEngineer:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Deep Learning** • **Reinforcement Learning** • **Computer Vision** • **LSTM Networks** • **Neural Networks**
+**Deep Learning** • **Generative AI & RAG** • **Computer Vision** • **Big Data Analytics** • **PySpark**
 
 ### 🦾 Robotics & Autonomous Systems
 
@@ -131,7 +144,40 @@ class RoboticsEngineer:
 
 <div align="center">
 
-<table>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 🚗 Advanced Lane Detection
+**Python, OpenCV, Computer Vision** | *Dec 2025 - Jan 2026*
+
+👁️ Real-time CV system (20-30 FPS) on CPU  
+🛣️ Canny edge & Hough Transform  
+🛠️ Configurable ROI & HSV filtering
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)](https://github.com/SushmithaGovindaraj)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)](https://github.com/SushmithaGovindaraj)
+
+</td>
+<td width="50%" align="center">
+
+### 🤖 Industrial RAG Assistant
+**Python, Anthropic Claude, FAISS** | *Nov 2025 - Dec 2025*
+
+🔍 Production RAG with Claude Sonnet 4  
+⚡ FAISS vector store (<100ms retrieval)  
+💻 Responsive Streamlit interface
+
+[![Claude](https://img.shields.io/badge/Claude-Sonnet4-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)](https://github.com/SushmithaGovindaraj)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center">
 <tr>
 <td width="33%" align="center">
 
@@ -233,6 +279,6 @@ class RoboticsEngineer:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
-**⭐ From [SushmithaGovindaraj](https://github.com/SushmithaGovindaraj) | Last Updated: December 2025**
+**⭐ From [SushmithaGovindaraj](https://github.com/SushmithaGovindaraj) | Last Updated: January 2026**
 
 </div>
