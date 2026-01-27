@@ -18,7 +18,7 @@
 class RoboticsEngineer:
     def __init__(self):
         self.name = "Sushmitha Govindaraj"
-        self.role = "AI-Powered Robotics Specialist"
+        self.role = "AI-Powered Robotics Engineer"
         self.location = "Dortmund, Germany 🇩🇪"
         self.education = {
             "masters": "M.Sc. Automation & Robotics @ TU Dortmund",
