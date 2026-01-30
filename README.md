@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Robotics+Engineer;Machine+Learning+Specialist;AI+Researcher" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushmitha-govindaraj-40534a196)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sushmithagovindaraj.github.io)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushmitharaj2000@gmail.com)
 [![Location](https://img.shields.io/badge/Dortmund-Germany-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Dortmund)
 
@@ -255,6 +256,10 @@ class RoboticsEngineer:
 
 <a href="https://linkedin.com/in/sushmitha-govindaraj-40534a196">
   <img src="https://img.shields.io/badge/LinkedIn-Sushmitha_Govindaraj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://sushmithagovindaraj.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-Website-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <a href="https://github.com/SushmithaGovindaraj">
