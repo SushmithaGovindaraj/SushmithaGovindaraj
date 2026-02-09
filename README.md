@@ -147,7 +147,20 @@ class RoboticsEngineer:
 
 <table align="center">
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
+
+### 🔍 AI Research Agent
+**Claude Sonnet 4, LangGraph, Streamlit** | *Jan 2026 - Present*
+
+🤖 Autonomous research planning  
+🌐 Web + Wikipedia search  
+📊 Data analysis & CSV generation
+
+[![Claude](https://img.shields.io/badge/Claude-Sonnet4-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Workflow-FF4B4B?style=flat-square)](https://github.com/SushmithaGovindaraj)
+
+</td>
+<td width="33%" align="center">
 
 ### 🚗 Advanced Lane Detection
 **Python, OpenCV, Computer Vision** | *Dec 2025 - Jan 2026*
@@ -160,10 +173,10 @@ class RoboticsEngineer:
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 ### 🤖 Industrial RAG Assistant
-**Python, Anthropic Claude, FAISS** | *Nov 2025 - Dec 2025*
+**Python, Claude, FAISS** | *Nov 2025 - Dec 2025*
 
 🔍 Production RAG with Claude Sonnet 4  
 ⚡ FAISS vector store (<100ms retrieval)  
@@ -187,7 +200,7 @@ class RoboticsEngineer:
 
 🎯 AI models for high-speed PCB optimization  
 📊 SPICE simulation training datasets  
-✅ AI-driven design reliability recommendations
+✅ AI-driven design recommendations
 
 [![AI](https://img.shields.io/badge/AI-Powered-6366F1?style=flat-square)](https://github.com)
 [![PCB](https://img.shields.io/badge/PCB-Design-10B981?style=flat-square)](https://github.com)
