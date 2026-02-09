@@ -113,7 +113,7 @@ class RoboticsEngineer:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Deep Learning** • **Generative AI & RAG** • **Computer Vision** • **Big Data Analytics** • **PySpark**
+**Deep Learning** • **Generative AI & RAG** • **Agentic AI** • **LangChain** • **Computer Vision** • **Big Data Analytics** • **PySpark**
 
 ### 🦾 Robotics & Autonomous Systems
 
