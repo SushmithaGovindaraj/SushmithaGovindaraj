@@ -179,9 +179,10 @@ class RoboticsEngineer:
 ### 🤖 Industrial RAG Assistant
 **Python, Claude, FAISS** | *Nov 2025 - Dec 2025*
 
-🔍 Production RAG with Claude Sonnet 4  
-⚡ FAISS vector store (<100ms retrieval)  
-💻 Responsive Streamlit interface
+🔍 Advanced RAG with Sonnet 4  
+⚡ FAISS-optimized (sub-100ms retrieval)  
+� Multi-document industrial context  
+💻 Sleek Streamlit dashboard
 
 [![Claude](https://img.shields.io/badge/Claude-Sonnet4-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)](https://github.com/SushmithaGovindaraj)
