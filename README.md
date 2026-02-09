@@ -152,9 +152,10 @@ class RoboticsEngineer:
 ### 🔍 AI Research Agent
 **Claude Sonnet 4, LangGraph, Streamlit** | *Jan 2026 - Present*
 
-🤖 Autonomous research planning  
-🌐 Web + Wikipedia search  
-📊 Data analysis & CSV generation
+🤖 Autonomous agentic workflow  
+🌐 Web + Wikipedia hybrid search  
+📊 Dynamic analysis & CSV generation  
+🧠 FAISS-powered context memory
 
 [![Claude](https://img.shields.io/badge/Claude-Sonnet4-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Workflow-FF4B4B?style=flat-square)](https://github.com/SushmithaGovindaraj)
