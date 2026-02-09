@@ -1,4 +1,4 @@
-# LaTeX auxiliary files
+# LaTeX auxiliary files (generated during compilation)
 *.aux
 *.log
 *.out
@@ -14,16 +14,18 @@
 # PDF output (optional - uncomment if you don't want to track PDFs)
 # *.pdf
 
-# OS files
+# OS-specific files (to prevent cluttering across different systems)
 .DS_Store
 Thumbs.db
 
-# Editor files
+# Editor-specific files (VS Code, JetBrains, vim)
 *.swp
 *.swo
 *~
 .vscode/
 .idea/
 
-# Backup files
+# Backup and temporary files
 *.bak
+*.tmp
+
