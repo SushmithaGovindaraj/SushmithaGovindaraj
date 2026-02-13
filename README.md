@@ -100,7 +100,7 @@ class RoboticsEngineer:
 
 ---
 
-## � Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
