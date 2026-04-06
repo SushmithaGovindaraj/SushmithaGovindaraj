@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sushmitha Govindaraj
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Robotics+%26+AI+Engineer;Architecting+Intelligent+Systems;Generative+AI+Researcher;Industrial+Automation+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Robotics+Engineer;Machine+Learning+Specialist;AI+Researcher" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushmitha-govindaraj-40534a196)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sushmithagovindaraj.github.io)
@@ -15,26 +15,25 @@
 
 ## 👤 About Me
 
-```bash
-root@portfolio:~$ whoami
-Sushmitha Govindaraj - Robotics & AI Engineer 🦾🧠
-root@portfolio:~$ cat bio.txt
-Developing autonomous systems that bridge the gap between AI and Industrial Robotics.
-Current Focus: Generative AI, Sonar-based SLAM, and Big Data Analytics for Automation.
-Based in: Dortmund, Germany 🇩🇪
-```
-
 ```python
 class RoboticsEngineer:
     def __init__(self):
-        self.role = "Robotics & AI Engineer"
+        self.name = "Sushmitha Govindaraj"
+        self.role = "AI-Powered Robotics Engineer"
+        self.location = "Dortmund, Germany 🇩🇪"
         self.education = {
-            "M.Sc.": "Automation & Robotics @ TU Dortmund",
-            "B.E.": "Robotics & Automation @ PSG College of Technology"
+            "masters": "M.Sc. Automation & Robotics @ TU Dortmund",
+            "bachelors": "B.E. Robotics & Automation @ PSG College of Technology"
         }
-        self.tech_core = ["LLMs", "ROS2", "Databricks", "SLAM", "Control Systems"]
-        self.current_endeavor = "Werkstudentin @ Wilo Group - Big Data Analytics & Control"
-        self.mission = "Architecting the next generation of intelligent, reliable systems."
+        self.recent_focus = [
+            "Data Analytics & Control Engineering @ Wilo Group",
+            "Big Data Workflows with PySpark & Databricks",
+            "Industrial RAG & Computer Vision systems"
+        ]
+        self.languages = ["English (C2)", "German (B2)", "Tamil (Native)"]
+    
+    def get_expertise(self):
+        return ["Autonomous Systems", "Sensor Fusion", "Industrial Automation"]
 ```
 
 <div align="center">
@@ -97,13 +96,13 @@ class RoboticsEngineer:
 <td width="50%" valign="top">
 
 #### 💼 Project Intern
-**WILO Group** | *April 2024 - Sept 2024*
+**WILO Group** | *April 2024 – Sept 2024*
 
 <br>
 
-📊 Mastered Databricks & PySpark workflows  
-⚡ Big data automation for industrial systems  
-🔧 Process optimization for water management
+📊 Mastered Databricks and PySpark workflows  
+⚡ Industrial data automation pipelines  
+🔧 Water management systems optimization
 
 <br>
 
@@ -111,13 +110,13 @@ class RoboticsEngineer:
 <td width="50%" valign="top">
 
 #### 💼 Project Intern
-**AAtek Robo Private Limited** | *Dec 2021 - May 2022*
+**AAtek Robo Private Limited** | *Dec 2021 – May 2022*
 
 <br>
 
 🤖 Machine Learning for circuit performance  
-🔬 Signal integrity (SI/PI) analysis  
-⚡ Embedded systems development
+🔬 Signal integrity (SI/PI) analytics  
+⚡ Embedded hardware development
 
 <br>
 
@@ -136,32 +135,37 @@ class RoboticsEngineer:
 <div align="center">
 
 ### 🤖 AI & Machine Learning
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Deep Learning (CNN/RNN/LSTM)** • **Generative AI & RAG** • **Agentic AI** • **ChromaDB** • **PySpark** • **Computer Vision**
+**Deep Learning** • **Generative AI & RAG** • **Agentic AI** • **LangChain** • **Computer Vision** • **Big Data Analytics** • **PySpark**
 
 ### 🦾 Robotics & Autonomous Systems
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=gazebo&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-**Sonar SLAM** • **Sensor Fusion** • **MoveIt** • **Path Planning** • **Robotic Manipulation** • **Navigation**
+**ROS1/ROS2** • **SLAM** • **Sensor Fusion** • **Navigation** • **MoveIt** • **Path Planning** • **Localization**
 
 ### ⚙️ Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🏭 Industrial Automation
-**PLC & SCADA** • **PCB Design (Zuken eCADSTAR)** • **SI/PI Analysis** • **SPICE Simulation** • **Embedded Systems**
+
+**PLC Programming** • **SCADA Systems** • **Robot Integration** • **SI/PI Design** • **SPICE Simulation**
 
 </div>
 
@@ -179,57 +183,62 @@ class RoboticsEngineer:
 **FastAPI, ChromaDB, Gemini/Claude** | *2025 - Present*
 
 🤖 Multi-document Synthesis platform  
-📄 Context window fragmentation resolution  
+📄 Context fragmentation resolution  
 🧠 Granular section-level citations  
-⚡ Cross-paper analysis & Hybrid Retrieval
+⚡ Cross-paper Hybrid Retrieval
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
+[![Claude](https://img.shields.io/badge/Claude-Sonnet4-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
 </td>
 <td width="33%" align="center">
 
 ### 🤖 Autonomous AI Research Agent
-**LangChain, LangGraph, Claude** | *2026 - Present*
+**LangChain, LangGraph, Claude** | *Jan 2026 - Present*
 
 🤖 Agentic research workflow  
 🌐 Web + Wikipedia hybrid search  
 📊 Automated information synthesis  
 🧠 Research report generator
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Workflow-FF4B4B?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
 </td>
 <td width="33%" align="center">
 
 ### 🌊 Sonar-Based SLAM for Autonomous Vessels
-**ROS2, Python, LSTM, Neural Nets** | *2024 - 2025*
+**ROS2, Python, LSTM, Neural Nets** | *Nov 2024 - June 2025*
 
-🔬 GNSS-free underwater localization  
+� GNSS-free underwater localization  
 🤖 LSTM-based underwater odometry  
 🌊 Autonomous ship navigation  
-📊 Sensor fusion (IMU + DVL + Sonar)
+� Sensor fusion (IMU + DVL + Sonar)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
+[![ROS](https://img.shields.io/badge/ROS-Enabled-EF4444?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
 </td>
 </tr>
+</table>
+
+<br>
+
+<table align="center">
 <tr>
 <td width="33%" align="center">
 
 ### 🚗 Advanced Lane Detection System
-**Python, OpenCV, Computer Vision** | *2025 - 2026*
+**Python, OpenCV, Computer Vision** | *Dec 2025 - Jan 2026*
 
 👁️ Real-time road monitoring  
 🛣️ Lane-keeping assistance  
 🛠️ Canny-Hough transform pipeline  
 🎮 Autonomous driving vision
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
 </td>
 <td width="33%" align="center">
 
-### 🦾 Industrial RAG Assistant
+### � Industrial RAG Assistant
 **Python, Claude, FAISS** | *Nov 2025 - Dec 2025*
 
 🔍 Engineering documentation expert  
@@ -237,65 +246,57 @@ class RoboticsEngineer:
 ✅ Technical datasheet digestion  
 💻 Knowledge retrieval system
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
 </td>
 <td width="33%" align="center">
 
 ### 🧠 AI-Based SI/PI-Compliant PCB Design
-**ML, SPICE, Zuken eCADSTAR** | *2023 - 2024*
+**ML, SPICE, Zuken eCADSTAR** | *Oct 2023 - June 2024*
 
 🎯 Signal Integrity optimization  
 📊 SPICE simulation dataset creation  
 ✅ Zuken eCADSTAR design automation  
 ⚡ AI-driven high-speed optimization
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
+[![PCB](https://img.shields.io/badge/PCB-Design-10B981?style=flat-square)](https://github.com)
 
 </td>
 </tr>
+</table>
+
+<br>
+
+<table align="center">
 <tr>
 <td width="50%" align="center">
 
 ### 🦾 Robotic Arm on Omnidirectional Base
-**ROS, MoveIt, C++, Hardware** | *2021 - 2022*
+**ROS, MoveIt, C++, Hardware** | *Dec 2021 - May 2022*
 
 🤖 5-axis robotic manipulator  
 🎮 Mecanum wheeled base control  
 📦 Pick-and-place automation  
 ⚡ Kinematic path planning
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
+[![Robotics](https://img.shields.io/badge/Robotics-System-F59E0B?style=flat-square)](https://github.com)
 
 </td>
 <td width="50%" align="center">
 
 ### 🧪 RTPCR Sample Collection Robot
-**Computer Vision, Robotics** | *2021 - 2022*
+**Computer Vision, Robotics** | *Dec 2021 - May 2022*
 
 🔬 Automated medical sample handling  
 👁️ Vision-based vial localization  
 ⚡ Reduced human intervention  
-🛡️ High-throughput laboratory automation
+🛡️ High-throughput automation
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
+[![Auto](https://img.shields.io/badge/Automation-System-EC4899?style=flat-square)](https://github.com)
 
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 📚 Research Publications
-
-<div align="center">
-
-| 📄 Publication Title | 🏛️ Venue / Focus |
-|:-------------------|:-----------------|
-| **RFID-based Human Following Load Carrier** | Human-Robot Interaction Research |
-| **Design & Integration of Robotic Arm on Omnidirectional Base** | Robotics & Automation Systems Study |
 
 </div>
 
@@ -362,6 +363,6 @@ class RoboticsEngineer:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
-**⭐ From [SushmithaGovindaraj](https://github.com/SushmithaGovindaraj) | Last Updated: April 2026**
+**⭐ From [SushmithaGovindaraj](https://github.com/SushmithaGovindaraj) | Last Updated: February 2026**
 
 </div>
