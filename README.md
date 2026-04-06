@@ -229,7 +229,7 @@ class RoboticsEngineer:
 </td>
 <td width="33%" align="center">
 
-### � Industrial RAG Assistant
+### 🦾 Industrial RAG Assistant
 **Python, Claude, FAISS** | *Nov 2025 - Dec 2025*
 
 🔍 Industrial documentation expert  
