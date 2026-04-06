@@ -93,6 +93,36 @@ class RoboticsEngineer:
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💼 Project Intern
+**WILO Group** | *April 2024 - Sept 2024*
+
+<br>
+
+📊 Mastered Databricks & PySpark workflows  
+⚡ Big data automation for industrial systems  
+🔧 Process optimization for water management
+
+<br>
+
+</td>
+<td width="50%" valign="top">
+
+#### 💼 Project Intern
+**AAtek Robo Private Limited** | *Dec 2021 - May 2022*
+
+<br>
+
+🤖 Machine Learning for circuit performance  
+🔬 Signal integrity (SI/PI) analysis  
+⚡ Embedded systems development
+
+<br>
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -106,37 +136,32 @@ class RoboticsEngineer:
 <div align="center">
 
 ### 🤖 AI & Machine Learning
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Deep Learning** • **Generative AI & RAG** • **Agentic AI** • **LangChain** • **Computer Vision** • **Big Data Analytics** • **PySpark**
+**Deep Learning (CNN/RNN/LSTM)** • **Generative AI & RAG** • **Agentic AI** • **ChromaDB** • **PySpark** • **Computer Vision**
 
 ### 🦾 Robotics & Autonomous Systems
-
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=gazebo&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-**ROS1/ROS2** • **SLAM** • **Sensor Fusion** • **Navigation** • **MoveIt** • **Path Planning** • **Localization**
+**Sonar SLAM** • **Sensor Fusion** • **MoveIt** • **Path Planning** • **Robotic Manipulation** • **Navigation**
 
 ### ⚙️ Programming & Development
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🏭 Industrial Automation
-
-**PLC Programming** • **SCADA Systems** • **Robot Integration** • **SI/PI Design** • **SPICE Simulation**
+**PLC & SCADA** • **PCB Design (Zuken eCADSTAR)** • **SI/PI Analysis** • **SPICE Simulation** • **Embedded Systems**
 
 </div>
 
