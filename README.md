@@ -178,36 +178,36 @@ class RoboticsEngineer:
 ### 🔍 Hybrid-RAG Research System
 **FastAPI, ChromaDB, Gemini/Claude** | *2025 - Present*
 
-🤖 Cross-paper analysis & citations  
-📄 Multi-PDF processing pipeline  
-🧠 Advanced academic reasoning  
-⚡ Semantic search with RAG
+🤖 Multi-document Synthesis platform  
+📄 Context window fragmentation resolution  
+🧠 Granular section-level citations  
+⚡ Cross-paper analysis & Hybrid Retrieval
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
 </td>
 <td width="33%" align="center">
 
-### 🤖 Autonomous AI Agent
+### 🤖 Autonomous AI Research Agent
 **LangChain, LangGraph, Claude** | *2026 - Present*
 
-🤖 Multi-agentic research workflow  
+🤖 Agentic research workflow  
 🌐 Web + Wikipedia hybrid search  
-📊 Dynamic analysis & CSV output  
-🧠 Context-aware memory systems
+📊 Automated information synthesis  
+🧠 Research report generator
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
 </td>
 <td width="33%" align="center">
 
-### 🌊 Sonar-Based SLAM
+### 🌊 Sonar-Based SLAM for Autonomous Vessels
 **ROS2, Python, LSTM, Neural Nets** | *2024 - 2025*
 
 🔬 GNSS-free underwater localization  
-🤖 LSTM-based odometry estimation  
+🤖 LSTM-based underwater odometry  
 🌊 Autonomous ship navigation  
-📊 Real-time sensor data fusion
+📊 Sensor fusion (IMU + DVL + Sonar)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
@@ -216,13 +216,13 @@ class RoboticsEngineer:
 <tr>
 <td width="33%" align="center">
 
-### 🚗 Advanced Lane Detection
+### 🚗 Advanced Lane Detection System
 **Python, OpenCV, Computer Vision** | *2025 - 2026*
 
-👁️ 30 FPS real-time CV pipeline  
-🛣️ Canny edge & Hough Transform  
-🛠️ Configurable ROI & HSV filtering  
-🎮 Autonomous driving simulation
+👁️ Real-time road monitoring  
+🛣️ Lane-keeping assistance  
+🛠️ Canny-Hough transform pipeline  
+🎮 Autonomous driving vision
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
@@ -232,23 +232,23 @@ class RoboticsEngineer:
 ### 🦾 Industrial RAG Assistant
 **Python, Claude, FAISS** | *Nov 2025 - Dec 2025*
 
-🔍 Industrial documentation expert  
-⚡ Sub-100ms context retrieval  
-✅ Maintenance manual synthesis  
-💻 Streamlit decision support
+🔍 Engineering documentation expert  
+⚡ Maintenance manual synthesis  
+✅ Technical datasheet digestion  
+💻 Knowledge retrieval system
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
 </td>
 <td width="33%" align="center">
 
-### 🧠 AI-Based PCB Design
+### 🧠 AI-Based SI/PI-Compliant PCB Design
 **ML, SPICE, Zuken eCADSTAR** | *2023 - 2024*
 
-🎯 High-speed PCB optimization  
-📊 ML-driven design DRC checks  
-✅ SI/PI compliant automation  
-⚡ Efficient circuit layout gen
+🎯 Signal Integrity optimization  
+📊 SPICE simulation dataset creation  
+✅ Zuken eCADSTAR design automation  
+⚡ AI-driven high-speed optimization
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
@@ -257,11 +257,11 @@ class RoboticsEngineer:
 <tr>
 <td width="50%" align="center">
 
-### 🦾 Robotic Arm System
+### 🦾 Robotic Arm on Omnidirectional Base
 **ROS, MoveIt, C++, Hardware** | *2021 - 2022*
 
-🤖 5-axis manipulator integration  
-🎮 Mecanum wheel base control  
+🤖 5-axis robotic manipulator  
+🎮 Mecanum wheeled base control  
 📦 Pick-and-place automation  
 ⚡ Kinematic path planning
 
@@ -270,13 +270,13 @@ class RoboticsEngineer:
 </td>
 <td width="50%" align="center">
 
-### 🧪 RTPCR Sample Robot
+### 🧪 RTPCR Sample Collection Robot
 **Computer Vision, Robotics** | *2021 - 2022*
 
-🔬 Autonomous medical sampling  
-👁️ Precise vial localization  
-⚡ High-throughput automation  
-🛡️ Bio-safe robotic handling
+🔬 Automated medical sample handling  
+👁️ Vision-based vial localization  
+⚡ Reduced human intervention  
+🛡️ High-throughput laboratory automation
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
