@@ -320,6 +320,9 @@ class RoboticsEngineer:
 
 | 🎓 Certification | 🏢 Organization | 📅 Year |
 |:----------------|:----------------|:--------|
+| 🤖 Claude Code in Action | Anthropic | 2026 |
+| 🧠 AI Agent Fundamentals | Databricks | 2025 |
+| 📊 Databricks Fundamentals | Databricks | 2024 |
 | 🤖 Fundamentals of Agents | Hugging Face Agents Course | Oct 2025 |
 | 🧠 Introduction to Generative AI - Art of the Possible | AWS Training & Certification | Oct 2025 |
 | ☁️ No-code Machine Learning and Generative AI on AWS | AWS Training & Certification | Oct 2025 |
@@ -372,6 +375,6 @@ class RoboticsEngineer:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
-**⭐ From [SushmithaGovindaraj](https://github.com/SushmithaGovindaraj) | Last Updated: February 2026**
+**⭐ From [SushmithaGovindaraj](https://github.com/SushmithaGovindaraj) | Last Updated: April 2026**
 
 </div>
