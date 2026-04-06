@@ -175,93 +175,140 @@ class RoboticsEngineer:
 <tr>
 <td width="33%" align="center">
 
-### 🔍 AI Research Agent
-**Claude Sonnet 4, LangGraph, Streamlit** | *Jan 2026 - Present*
+### 🔍 Hybrid-RAG Research System
+**FastAPI, ChromaDB, Gemini/Claude** | *2025 - Present*
 
-🤖 Autonomous agentic workflow  
+🤖 Cross-paper analysis & citations  
+📄 Multi-PDF processing pipeline  
+🧠 Advanced academic reasoning  
+⚡ Semantic search with RAG
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
+
+</td>
+<td width="33%" align="center">
+
+### 🤖 Autonomous AI Agent
+**LangChain, LangGraph, Claude** | *2026 - Present*
+
+🤖 Multi-agentic research workflow  
 🌐 Web + Wikipedia hybrid search  
-📊 Dynamic analysis & CSV generation  
-🧠 FAISS-powered context memory
+📊 Dynamic analysis & CSV output  
+🧠 Context-aware memory systems
 
-[![Claude](https://img.shields.io/badge/Claude-Sonnet4-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
-[![LangGraph](https://img.shields.io/badge/LangGraph-Workflow-FF4B4B?style=flat-square)](https://github.com/SushmithaGovindaraj)
-
-</td>
-<td width="33%" align="center">
-
-### 🚗 Advanced Lane Detection
-**Python, OpenCV, Computer Vision** | *Dec 2025 - Jan 2026*
-
-👁️ Real-time CV system (20-30 FPS) on CPU  
-🛣️ Canny edge & Hough Transform  
-🛠️ Configurable ROI & HSV filtering
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)](https://github.com/SushmithaGovindaraj)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)](https://github.com/SushmithaGovindaraj)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
 </td>
 <td width="33%" align="center">
 
-### 🤖 Industrial RAG Assistant
-**Python, Claude, FAISS** | *Nov 2025 - Dec 2025*
+### 🌊 Sonar-Based SLAM
+**ROS2, Python, LSTM, Neural Nets** | *2024 - 2025*
 
-🔍 Advanced RAG with Sonnet 4  
-⚡ FAISS-optimized (sub-100ms retrieval)  
-✅ Multi-document industrial context  
-💻 Sleek Streamlit dashboard
+🔬 GNSS-free underwater localization  
+🤖 LSTM-based odometry estimation  
+🌊 Autonomous ship navigation  
+📊 Real-time sensor data fusion
 
-[![Claude](https://img.shields.io/badge/Claude-Sonnet4-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)](https://github.com/SushmithaGovindaraj)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
 </td>
 </tr>
-</table>
-
-<br>
-
-<table align="center">
 <tr>
 <td width="33%" align="center">
 
-### 🧠 AI-Based PCB Design
-**TU Dortmund** | *Oct 2023 - June 2024*
+### 🚗 Advanced Lane Detection
+**Python, OpenCV, Computer Vision** | *2025 - 2026*
 
-🎯 AI models for high-speed PCB optimization  
-📊 SPICE simulation training datasets  
-✅ AI-driven design recommendations
+👁️ 30 FPS real-time CV pipeline  
+🛣️ Canny edge & Hough Transform  
+🛠️ Configurable ROI & HSV filtering  
+🎮 Autonomous driving simulation
 
-[![AI](https://img.shields.io/badge/AI-Powered-6366F1?style=flat-square)](https://github.com)
-[![PCB](https://img.shields.io/badge/PCB-Design-10B981?style=flat-square)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
 </td>
+<td width="33%" align="center">
+
+### � Industrial RAG Assistant
+**Python, Claude, FAISS** | *Nov 2025 - Dec 2025*
+
+🔍 Industrial documentation expert  
+⚡ Sub-100ms context retrieval  
+✅ Maintenance manual synthesis  
+💻 Streamlit decision support
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
+
+</td>
+<td width="33%" align="center">
+
+### 🧠 AI-Based PCB Design
+**ML, SPICE, Zuken eCADSTAR** | *2023 - 2024*
+
+🎯 High-speed PCB optimization  
+📊 ML-driven design DRC checks  
+✅ SI/PI compliant automation  
+⚡ Efficient circuit layout gen
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
+
+</td>
+</tr>
+<tr>
 <td width="33%" align="center">
 
 ### 🦾 Robotic Arm System
-**PSG College** | *Dec 2021 - May 2022*
+**ROS, MoveIt, C++, Hardware** | *2021 - 2022*
 
-🤖 5-axis arm on Mecanum wheel base  
-🎮 Advanced control algorithms  
-📦 Pick-and-place automation
+🤖 5-axis manipulator integration  
+🎮 Mecanum wheel base control  
+📦 Pick-and-place automation  
+⚡ Kinematic path planning
 
-[![Robotics](https://img.shields.io/badge/Robotics-System-F59E0B?style=flat-square)](https://github.com)
-[![ROS](https://img.shields.io/badge/ROS-Enabled-EF4444?style=flat-square)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
 </td>
 <td width="33%" align="center">
 
-### 🧪 RTPCR Automation
-**AAtek Robo** | *Dec 2021 - May 2022*
+### 🧪 RTPCR Sample Robot
+**Computer Vision, Robotics** | *2021 - 2022*
 
-🔬 Robotic sample collection system  
-👁️ Computer vision algorithms  
-⚡ Laboratory automation
+🔬 Autonomous medical sampling  
+👁️ Precise vial localization  
+⚡ High-throughput automation  
+🛡️ Bio-safe robotic handling
 
-[![CV](https://img.shields.io/badge/Computer-Vision-8B5CF6?style=flat-square)](https://github.com)
-[![Auto](https://img.shields.io/badge/Automation-System-EC4899?style=flat-square)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 Exploration Robot
+**Embedded, Sensors, PID**
+
+🤖 Autonomous maze navigation  
+📡 Real-time obstacle avoidance  
+⚡ Optimized control loops  
+🛠️ Low-latency sensor integration
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## 📚 Research Publications
+
+<div align="center">
+
+| 📄 Publication Title | 🏛️ Venue / Focus |
+|:-------------------|:-----------------|
+| **RFID-based Human Following Load Carrier** | Human-Robot Interaction Research |
+| **Design & Integration of Robotic Arm on Omnidirectional Base** | Robotics & Automation Systems Study |
 
 </div>
 
