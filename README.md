@@ -93,21 +93,7 @@ class RoboticsEngineer:
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### 💼 Project Intern
-**WILO Group** | *April 2024 – Sept 2024*
-
-<br>
-
-📊 Mastered Databricks and PySpark workflows  
-⚡ Industrial data automation pipelines  
-🔧 Water management systems optimization
-
-<br>
-
-</td>
-<td width="50%" valign="top">
+<td colspan="2" align="center" valign="top">
 
 #### 💼 Project Intern
 **AAtek Robo Private Limited** | *Dec 2021 – May 2022*
