@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sushmitha Govindaraj
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Robotics+Engineer;Machine+Learning+Specialist;AI+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Robotics+%26+AI+Engineer;Architecting+Intelligent+Systems;Generative+AI+Researcher;Industrial+Automation+Specialist" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushmitha-govindaraj-40534a196)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sushmithagovindaraj.github.io)
@@ -15,25 +15,26 @@
 
 ## 👤 About Me
 
+```bash
+root@portfolio:~$ whoami
+Sushmitha Govindaraj - Robotics & AI Engineer 🦾🧠
+root@portfolio:~$ cat bio.txt
+Developing autonomous systems that bridge the gap between AI and Industrial Robotics.
+Current Focus: Generative AI, Sonar-based SLAM, and Big Data Analytics for Automation.
+Based in: Dortmund, Germany 🇩🇪
+```
+
 ```python
 class RoboticsEngineer:
     def __init__(self):
-        self.name = "Sushmitha Govindaraj"
-        self.role = "AI-Powered Robotics Engineer"
-        self.location = "Dortmund, Germany 🇩🇪"
+        self.role = "Robotics & AI Engineer"
         self.education = {
-            "masters": "M.Sc. Automation & Robotics @ TU Dortmund",
-            "bachelors": "B.E. Robotics & Automation @ PSG College of Technology"
+            "M.Sc.": "Automation & Robotics @ TU Dortmund",
+            "B.E.": "Robotics & Automation @ PSG College of Technology"
         }
-        self.recent_focus = [
-            "Data Analytics & Control Engineering @ Wilo Group",
-            "Big Data Workflows with PySpark & Databricks",
-            "Industrial RAG & Computer Vision systems"
-        ]
-        self.languages = ["English (C2)", "German (B2)", "Tamil (Native)"]
-    
-    def get_expertise(self):
-        return ["Autonomous Systems", "Sensor Fusion", "Industrial Automation"]
+        self.tech_core = ["LLMs", "ROS2", "Databricks", "SLAM", "Control Systems"]
+        self.current_endeavor = "Werkstudentin @ Wilo Group - Big Data Analytics & Control"
+        self.mission = "Architecting the next generation of intelligent, reliable systems."
 ```
 
 <div align="center">
