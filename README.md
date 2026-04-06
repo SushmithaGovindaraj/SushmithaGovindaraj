@@ -255,7 +255,7 @@ class RoboticsEngineer:
 </td>
 </tr>
 <tr>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 ### 🦾 Robotic Arm System
 **ROS, MoveIt, C++, Hardware** | *2021 - 2022*
@@ -268,7 +268,7 @@ class RoboticsEngineer:
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
 </td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 ### 🧪 RTPCR Sample Robot
 **Computer Vision, Robotics** | *2021 - 2022*
@@ -277,19 +277,6 @@ class RoboticsEngineer:
 👁️ Precise vial localization  
 ⚡ High-throughput automation  
 🛡️ Bio-safe robotic handling
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
-
-</td>
-<td width="33%" align="center">
-
-### 🚀 Exploration Robot
-**Embedded, Sensors, PID**
-
-🤖 Autonomous maze navigation  
-📡 Real-time obstacle avoidance  
-⚡ Optimized control loops  
-🛠️ Low-latency sensor integration
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-6366F1?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
