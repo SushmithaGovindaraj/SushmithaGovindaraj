@@ -221,10 +221,10 @@ class AIDataEngineer:
 ### 🌊 Sonar-Based SLAM for Autonomous Vessels
 **ROS2, Python, LSTM, Neural Nets** | *Nov 2024 - June 2025*
 
-� GNSS-free underwater localization  
+🌐 GNSS-free underwater localization  
 🤖 LSTM-based underwater odometry  
 🌊 Autonomous ship navigation  
-� Sensor fusion (IMU + DVL + Sonar)
+📡 Sensor fusion (IMU + DVL + Sonar)
 
 [![ROS](https://img.shields.io/badge/ROS-Enabled-EF4444?style=flat-square)](https://github.com/SushmithaGovindaraj)
 
@@ -251,7 +251,7 @@ class AIDataEngineer:
 </td>
 <td width="33%" align="center">
 
-### � Industrial RAG Assistant
+### 🏭 Industrial RAG Assistant
 **Python, Claude, FAISS** | *Nov 2025 - Dec 2025*
 
 🔍 Engineering documentation expert  
