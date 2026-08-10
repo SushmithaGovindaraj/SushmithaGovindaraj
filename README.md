@@ -53,15 +53,18 @@ class AIDataEngineer:
 <tr>
 <td colspan="2" align="center" valign="top">
 
-#### 💼 Werkstudentin - Data Science & Control Engineering
-**Wilo Group** | *Dec 2025 - Present*
+#### 💼 Data Scientist (Working Student)
+**Wilo SE, Dortmund** | *Dec 2025 - Present*
 
 <br>
 
-📊 Data analytics solutions with Databricks for water tech  
-⚡ PySpark big data processing workflows  
-🔧 Data pipelines for control engineering  
-🤝 Cross-functional collaboration for data-driven decisions
+🔍 Debugged Databricks Structured Streaming pipelines: empty micro-batches, missing foreachBatch writes, out-of-order timestamps  
+📐 Designed an automated error-messaging concept for pump operational data (logic rules, output schemas, message descriptions)  
+⚡ Runtime performance analysis on PySpark pipelines to find long-running bottlenecks  
+🐍 Python scripts automating filtering and output generation for operational datasets  
+✅ Test specifications (Off-Time Calculation, LPWAN Analysis) validated in an automated testing pipeline  
+🤖 Prototyped an AI-driven PowerPoint style-conversion agent  
+🔄 Azure DevOps for task tracking and code collaboration
 
 <br>
 
