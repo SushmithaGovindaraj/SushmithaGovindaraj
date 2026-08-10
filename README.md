@@ -16,24 +16,29 @@
 ## 👤 About Me
 
 ```python
-class RoboticsEngineer:
+class AIDataEngineer:
     def __init__(self):
         self.name = "Sushmitha Govindaraj"
-        self.role = "AI-Powered Robotics Engineer"
+        self.role = "AI & Data Engineer"
         self.location = "Dortmund, Germany 🇩🇪"
         self.education = {
             "masters": "M.Sc. Automation & Robotics @ TU Dortmund",
             "bachelors": "B.E. Robotics & Automation @ PSG College of Technology"
         }
         self.recent_focus = [
-            "Data Analytics & Control Engineering @ Wilo Group",
-            "Big Data Workflows with PySpark & Databricks",
-            "Industrial RAG & Computer Vision systems"
+            "Databricks Structured Streaming pipelines @ Wilo SE",
+            "RAG systems & agentic AI with LangChain / LangGraph",
+            "Big data workflows with PySpark & Databricks"
         ]
-        self.languages = ["English (C2)", "German (B2)", "Tamil (Native)"]
-    
+        self.languages = [
+            "English (C2)",
+            "German (B1 certified, B2 in progress)",
+            "Tamil (Native)"
+        ]
+
     def get_expertise(self):
-        return ["Autonomous Systems", "Sensor Fusion", "Industrial Automation"]
+        return ["GenAI & RAG", "Data Engineering", "Machine Learning",
+                "Autonomous Systems", "Sensor Fusion"]
 ```
 
 <div align="center">
