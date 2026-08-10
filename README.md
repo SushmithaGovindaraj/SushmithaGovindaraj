@@ -193,7 +193,7 @@ class AIDataEngineer:
 <td width="33%" align="center">
 
 ### 🔍 Hybrid-RAG Research System
-**FastAPI, ChromaDB, Gemini/Claude** | *2025 - Present*
+**FastAPI, ChromaDB, Claude 3.5, SSE** | *2025 - Present*
 
 🤖 Multi-document Synthesis platform  
 📄 Context fragmentation resolution  
