@@ -104,13 +104,13 @@ class AIDataEngineer:
 <td colspan="2" align="center" valign="top">
 
 #### 💼 Project Intern
-**AAtek Robo Private Limited** | *Dec 2021 – May 2022*
+**AAtek Robo Private Limited, Coimbatore** | *Dec 2021 – May 2022*
 
 <br>
 
-🤖 Machine Learning for circuit performance  
-🔬 Signal integrity (SI/PI) analytics  
-⚡ Embedded hardware development
+👁️ Computer vision for real-time sample detection and classification  
+🤖 Robotic automation for RTPCR sample collection (Python + ROS)  
+⚙️ Adaptive control for intelligent lab automation
 
 <br>
 
