@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sushmitha Govindaraj
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Robotics+Engineer;Machine+Learning+Specialist;AI+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=AI+%26+Data+Engineer;GenAI+%26+LLM+Engineer;Machine+Learning+Engineer;Robotics+%26+Autonomous+Systems" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushmitha-govindaraj-40534a196)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sushmithagovindaraj.github.io)
