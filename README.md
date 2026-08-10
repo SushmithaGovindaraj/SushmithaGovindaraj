@@ -319,20 +319,25 @@ class AIDataEngineer:
 
 <div align="center">
 
-| 🎓 Certification | 🏢 Organization | 📅 Year |
+| 🎓 Certification | 🏢 Organization | 📅 Date |
 |:----------------|:----------------|:--------|
-| 🤖 Claude Code in Action | Anthropic | 2026 |
-| 🧠 AI Agent Fundamentals | Databricks | 2025 |
-| 📊 Databricks Fundamentals | Databricks | 2024 |
-| 🤖 Fundamentals of Agents | Hugging Face Agents Course | Oct 2025 |
-| 🧠 Introduction to Generative AI - Art of the Possible | AWS Training & Certification | Oct 2025 |
+| 🇩🇪 [telc Deutsch B1](https://results.telc.net/vb?credential=telc-NE6MAqE) | telc gGmbH | Aug 2026 |
+| 🧠 AI Agent Fundamentals | Databricks | Mar 2026 |
+| 📊 Databricks Fundamentals | Databricks | Mar 2026 |
+| 🤖 Claude Code in Action | Anthropic | Mar 2026 |
+| 🤗 Fundamentals of Agents | Hugging Face Agents Course | Oct 2025 |
+| ☁️ Planning a Generative AI Project | AWS Training & Certification | Oct 2025 |
+| ☁️ Building a Generative AI-Ready Organization | AWS Training & Certification | Oct 2025 |
+| ☁️ Generative AI Learning Plan for Decision Makers | AWS Training & Certification | Oct 2025 |
 | ☁️ No-code Machine Learning and Generative AI on AWS | AWS Training & Certification | Oct 2025 |
-| 🤖 International Conference on Automation, Robotics & Sensing | PSG College of Technology | 2018 |
+| ☁️ Introduction to Generative AI - Art of the Possible | AWS Training & Certification | Oct 2025 |
+| ☁️ Amazon Q Introduction | AWS Training & Certification | Oct 2025 |
 | 💬 Create Your First Chatbot with Rasa and Python | Coursera | 2020 |
 | 🧠 AI For Everyone | Coursera | 2020 |
 | 📊 Machine Learning for All | Coursera | 2020 |
 | 🚁 Aerial Surveying using Drone Technology | Aviocian Technologies | 2020 |
 | 🔬 Machine Learning Workshop | IIT Madras | 2019 |
+| 🤖 International Conference on Automation, Robotics & Sensing | PSG College of Technology | 2018 |
 
 </div>
 
